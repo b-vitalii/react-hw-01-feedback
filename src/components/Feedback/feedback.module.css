@@ -1,0 +1,18 @@
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 40px 40px #1135ff inset, 0 0 0 0 #1135ff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    transition: .15s ease-in-out;
+}
+
+.btn:hover {
+    box-shadow: 0 0 10px 0 #4997f0 inset, 0 0 10px 4px #4997f0;
+    color: #000000;
+  }
